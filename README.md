@@ -4,9 +4,9 @@
 ---
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000080&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;Exploring+Data+Science+%26+Web+Development;Skilled+in+Python+%7C+Java+%7C+React+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=000080&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;Exploring+Data+Science;Exploring+Web+Development;Skilled+in+Python;Skilled+in+Java;Skilled+in+ReactJS;Skilled+in+SQL" alt="Typing SVG" />
 </p>
+
 
 ---
 
