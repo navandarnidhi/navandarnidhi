@@ -3,13 +3,6 @@
 
 ---
 
-<div align="center">
-  <h2>Exploring Data Science | Exploring Web Development</h2>
-  <img src="image.png" alt="Welcome to my GitHub!" width="400">
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 - 🎓 PG-DAC Student | CDAC Mumbai (Advanced Computing – 2025)
