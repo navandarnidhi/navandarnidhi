@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nidhi Navandar</h1>
-<h3 align="center">💡 Data Science Enthusiast | 💻 Python Developer | ☁️ Azure Explorer</h3>
+<h3 align="center">💡 Data Science Enthusiast | 💻 Full-Stack Developer | ☁️ Cloud Explorer</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;Exploring+Data+Science+and+ML;Lover+of+Python+%7C+Azure+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;Exploring+Data+Science+%26+Web+Development;Skilled+in+Python+%7C+Java+%7C+React+%7C+SQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,25 +12,25 @@
 ## 👩‍💻 About Me
 
 - 🎓 PG-DAC Student | CDAC Mumbai (Advanced Computing – 2025)
-- 🧠 Skilled in **Python**, **SQL**, **Machine Learning**, **PySpark**, **Java**, **Power BI**
-- 📊 Completed projects in **Money Laundering Detection**, **Bookstore App**, and **E-commerce Cart**
-- ☁️ Experienced with **Azure Cloud** deployments and **Streamlit Web Apps**
-- 🌍 Based in **Solapur, Maharashtra, India**
-- 🚀 Eager to apply my skills in dynamic, real-world IT environments
+- 🧠 Skilled in **SQL**, **Java**, **Full-Stack**
+- ☁️ Also Love to work with **Power BI** and **Machine Learning**
+- 📊 Built and deployed multiple real-world projects including AML detection, e-commerce apps, and dashboards
+- 🌍 Based in **Mumbai, Maharashtra, India**
 - 📫 Reach me at: **navandarnidhi@gmail.com**
 
 ---
 
 ## 🧰 Tech Toolbox
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Core Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -44,32 +44,15 @@ Wadia College of Engineering, Pune (2023) | **CGPA: 7.57**
 
 ---
 
-## 🧠 Skills
+## 🧠 Soft Skills
 
-`Problem Solving` • `Team Collaboration` • `Adaptability` • `Time Management` • `Presentation Skills` • `Quick Learning`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhinavandar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhinavandar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhinavandar&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</p>
+`Problem Solving` • `Team Collaboration` • `Quick Learning` • `Adaptability` • `Presentation Skills` • `Time Management`
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nidhi-navandar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi%20Navandar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nidhi-navandar)  
 📧 Email: navandarnidhi@gmail.com  
 
 ---
