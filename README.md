@@ -16,7 +16,7 @@
 
 📫 Reach me at: navandarnidhi@gmail.com
 
-🔗 Check out my portfolio: nidhinavandar.netlify.app
+🔗 Check out my portfolio: [nidhinavandar.netlify.app](https://nidhinavandar.netlify.app/)
 
 ---
 
