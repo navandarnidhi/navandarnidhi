@@ -3,14 +3,20 @@
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
+🎓 PG-DAC Student | CDAC Mumbai (Advanced Computing – 2025)
 
-- 🎓 PG-DAC Student | CDAC Mumbai (Advanced Computing – 2025)
-- 🧠 Skilled in **SQL**, **Java**, **Full-Stack**
-- ☁️ Also Love to work with **Power BI** and **Machine Learning**
-- 📊 Built and deployed multiple real-world projects including AML detection, e-commerce apps, and dashboards
-- 🌍 Based in **Mumbai, Maharashtra, India**
-- 📫 Reach me at: **navandarnidhi@gmail.com**
+🧠 Skilled in SQL, Java, Full-Stack
+
+☁️ Also Love to work with Power BI and Machine Learning
+
+📊 Built and deployed multiple real-world projects including AML detection, e-commerce apps, and dashboards
+
+🌍 Based in Mumbai, Maharashtra, India
+
+📫 Reach me at: navandarnidhi@gmail.com
+
+🔗 Check out my portfolio: nidhinavandar.netlify.app
 
 ---
 
