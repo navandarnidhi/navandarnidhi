@@ -37,7 +37,7 @@
 ## 🎓 Education
 
 📘 **Post Graduate Diploma in Advanced Computing (PG-DAC)**  
-CDAC Mumbai (2025)
+CDAC Mumbai (2025) | **Percentage :- 69.75**
 
 🎓 **B.E. in Computer Engineering**  
 Wadia College of Engineering, Pune (2023) | **CGPA: 7.57**
