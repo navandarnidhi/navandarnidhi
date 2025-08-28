@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nidhi Navandar</h1>
+<h1 align="center">Hello, I'm Nidhi Navandar</h1>
 <h3 align="center"> 💻 Full-Stack Developer | ☁️ Cloud Explorer | 💡 Data Science Enthusiast </h3>
 
 ---
