@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nidhi Navandar</h1>
-<h3 align="center"> 💻 Full-Stack Developer | ☁️ Cloud Explorer | 💡 Data Science Enthusiast </h3>
+<h3 align="center"> 💻 FrontEnd Developer | 💡 Data Science Enthusiast </h3>
 
 ---
 
@@ -7,13 +7,13 @@
 
 🎓 **PG-DAC Student | CDAC Mumbai (Advanced Computing – 2025)**  
 
-🧠 Strong foundation in **Java, SQL, and Full-Stack Development**  
+🧠 Strong foundation in **Angular, React , SQL**  
 
 📊 Passionate about **Power BI, Data Analysis, and Machine Learning**  
 
 🚀 Built and deployed real-world projects including **AML Detection Systems, E-Commerce Applications, and Interactive Dashboards**  
 
-🌍 Based in **Mumbai, Maharashtra, India**  
+🌍 Location **Hyderabad, Telegana, India**  
 
 📫 Reach me at: **navandarnidhi@gmail.com**  
 
@@ -46,11 +46,11 @@
 
 📘 **Post Graduate Diploma in Advanced Computing (PG-DAC)**  
 CDAC Mumbai (2025)  
-**Percentage:** 69.75  
+**Percentage:** 70% 
 
 🎓 **B.E. in Computer Engineering**  
 Wadia College of Engineering, Pune (2023)  
-**CGPA:** 7.57  
+**CGPA:** 8.46
 
 ---
 
