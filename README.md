@@ -68,4 +68,4 @@ Wadia College of Engineering, Pune (2023)
 
 ---
 
-<p align="center"><i>“Strive to build things that make a difference.”</i></p>
+<p align="center"><i>“Every Bug Fixed Is A Lession Learnt.”</i></p>
