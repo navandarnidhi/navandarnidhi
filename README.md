@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhi Navandar</h1>
-<h3 align="center">💻 Frontend Developer | 💡 Data Science Enthusiast</h3>
+<h3 align="center">💻 Developer | 💡 Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nidhi-navandar">
@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-💼 Currently working as a **Software Engineer Trainee (Frontend Developer)**  
+💼 Currently working as a **Software Engineer Trainee (Developer)**  
 
 🎓 **Ex-CDACian  (Advanced Computing – 2025)**  
 
